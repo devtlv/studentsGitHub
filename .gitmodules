@@ -13,3 +13,6 @@
 [submodule "Python/Week1/Day5/portfolio_setup"]
 	path = Python/Week1/Day5/portfolio_setup
 	url = https://github.com/devtlv/portfolio_setup.git
+[submodule "Python/Week8/School-Project-Django-W8"]
+	path = Python/Week8/School-Project-Django-W8
+	url = https://github.com/devtlv/School-Project-Django-W8.git
