@@ -16,3 +16,6 @@
 [submodule "Python/Week8/School-Project-Django-W8"]
 	path = Python/Week8/School-Project-Django-W8
 	url = https://github.com/devtlv/School-Project-Django-W8.git
+[submodule "Python/Week8/Day4/Django-Image-Upload-and-Display-W8"]
+	path = Python/Week8/Day4/Django-Image-Upload-and-Display-W8
+	url = https://github.com/devtlv/Django-Image-Upload-and-Display-W8
