@@ -19,3 +19,6 @@
 [submodule "Python/Week8/Day4/Django-Image-Upload-and-Display-W8"]
 	path = Python/Week8/Day4/Django-Image-Upload-and-Display-W8
 	url = https://github.com/devtlv/Django-Image-Upload-and-Display-W8
+[submodule "Python/Week2/Day5/MiniProject_PlayTheGame"]
+	path = Python/Week2/Day5/MiniProject_PlayTheGame
+	url = https://github.com/devtlv/Playthegame_MiniProject_W2D5.git
