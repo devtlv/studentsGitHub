@@ -22,3 +22,6 @@
 [submodule "Python/Week2/Day5/MiniProject_PlayTheGame"]
 	path = Python/Week2/Day5/MiniProject_PlayTheGame
 	url = https://github.com/devtlv/Playthegame_MiniProject_W2D5.git
+[submodule "Python/Week3/Day2/MiniProject_TipGame/TipGame_MiniProject_W3D2"]
+	path = Python/Week3/Day2/MiniProject_TipGame/TipGame_MiniProject_W3D2
+	url = https://github.com/devtlv/TipGame_MiniProject_W3D2.git
