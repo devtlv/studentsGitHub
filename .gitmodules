@@ -25,3 +25,6 @@
 [submodule "Python/Week3/Day2/MiniProject_TipGame/TipGame_MiniProject_W3D2"]
 	path = Python/Week3/Day2/MiniProject_TipGame/TipGame_MiniProject_W3D2
 	url = https://github.com/devtlv/TipGame_MiniProject_W3D2.git
+[submodule "Python/Week5/Day4/DailyChallenge/theStranger_text_W5D4PY"]
+	path = Python/Week5/Day4/DailyChallenge/theStranger_text_W5D4PY
+	url = https://github.com/devtlv/theStranger_text_W5D4PY.git
