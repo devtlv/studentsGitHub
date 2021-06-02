@@ -34,3 +34,6 @@
 [submodule "JS/Week 9/Day3/Daily Challenge/RandomQuotesProject-JSBOOTCAMP-Week8Day5"]
 	path = JS/Week 9/Day3/Daily Challenge/RandomQuotesProject-JSBOOTCAMP-Week8Day5
 	url = https://github.com/devtlv/RandomQuotesProject-JSBOOTCAMP-Week8Day5
+[submodule "JS/Week 8/Day5/Mini Projects/RandomQuotesProject-JSBOOTCAMP-Week8Day5"]
+	path = JS/Week 8/Day5/Mini Projects/RandomQuotesProject-JSBOOTCAMP-Week8Day5
+	url = https://github.com/devtlv/RandomQuotesProject-JSBOOTCAMP-Week8Day5
