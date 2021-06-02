@@ -28,3 +28,9 @@
 [submodule "Python/Week5/Day4/DailyChallenge/theStranger_text_W5D4PY"]
 	path = Python/Week5/Day4/DailyChallenge/theStranger_text_W5D4PY
 	url = https://github.com/devtlv/theStranger_text_W5D4PY.git
+[submodule "JS/Week 9/Day3/Daily Challenge/React-Error-Boundary-01-initial-setupJSBOOTCAMP"]
+	path = JS/Week 9/Day3/Daily Challenge/React-Error-Boundary-01-initial-setupJSBOOTCAMP
+	url = https://github.com/devtlv/React-Error-Boundary-01-initial-setupJSBOOTCAMP
+[submodule "JS/Week 9/Day3/Daily Challenge/RandomQuotesProject-JSBOOTCAMP-Week8Day5"]
+	path = JS/Week 9/Day3/Daily Challenge/RandomQuotesProject-JSBOOTCAMP-Week8Day5
+	url = https://github.com/devtlv/RandomQuotesProject-JSBOOTCAMP-Week8Day5
