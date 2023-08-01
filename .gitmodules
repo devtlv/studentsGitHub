@@ -40,3 +40,33 @@
 [submodule "JS/Week 8/Day5/Daily Challenge/SuperheroesChallenge-JSBOOTCAMP-Week8Day5"]
 	path = JS/Week 8/Day5/Daily Challenge/SuperheroesChallenge-JSBOOTCAMP-Week8Day5
 	url = https://github.com/devtlv/SuperheroesChallenge-JSBOOTCAMP-Week8Day5
+[submodule "Challenges-Post-Bootcamp/Chat App/Chat-App-Challenge"]
+	path = Challenges-Post-Bootcamp/Chat App/Chat-App-Challenge
+	url = https://github.com/devtlv/Chat-App-Challenge
+[submodule "Challenges-Post-Bootcamp/Dictionary web app/Dictionary-web-app-Challenge"]
+	path = Challenges-Post-Bootcamp/Dictionary web app/Dictionary-web-app-Challenge
+	url = https://github.com/devtlv/Dictionary-web-app-Challenge
+[submodule "Challenges-Post-Bootcamp/REST Countries API with color theme switcher/Rest-Countries-API-Challenge"]
+	path = Challenges-Post-Bootcamp/REST Countries API with color theme switcher/Rest-Countries-API-Challenge
+	url = https://github.com/devtlv/Rest-Countries-API-Challenge
+[submodule "Challenges-Post-Bootcamp/E-commerce product page/E-commerce-product-page"]
+	path = Challenges-Post-Bootcamp/E-commerce product page/E-commerce-product-page
+	url = https://github.com/devtlv/E-commerce-product-page
+[submodule "Challenges-Post-Bootcamp/Planets fact site/Planet-Fact-Site-Challenge"]
+	path = Challenges-Post-Bootcamp/Planets fact site/Planet-Fact-Site-Challenge
+	url = https://github.com/devtlv/Planet-Fact-Site-Challenge
+[submodule "Challenges-Post-Bootcamp/Multi-step form/Multi-Step-Form-Challenge"]
+	path = Challenges-Post-Bootcamp/Multi-step form/Multi-Step-Form-Challenge
+	url = https://github.com/devtlv/Multi-Step-Form-Challenge
+[submodule "Challenges-Post-Bootcamp/Link-sharing app/Link-Sharing-App-Challenge"]
+	path = Challenges-Post-Bootcamp/Link-sharing app/Link-Sharing-App-Challenge
+	url = https://github.com/devtlv/Link-Sharing-App-Challenge
+[submodule "Challenges-Post-Bootcamp/Kanban task management web app/Task-Management-Challenge"]
+	path = Challenges-Post-Bootcamp/Kanban task management web app/Task-Management-Challenge
+	url = https://github.com/devtlv/Task-Management-Challenge
+[submodule "Challenges-Post-Bootcamp/IP Address Tracker/IP-Address-Tracker-Challenge"]
+	path = Challenges-Post-Bootcamp/IP Address Tracker/IP-Address-Tracker-Challenge
+	url = https://github.com/devtlv/IP-Address-Tracker-Challenge
+[submodule "Challenges-Post-Bootcamp/Invoice app/Invoice_App_Challenge"]
+	path = Challenges-Post-Bootcamp/Invoice app/Invoice_App_Challenge
+	url = https://github.com/devtlv/Invoice_App_Challenge
